@@ -14,11 +14,11 @@ git push heroku master
 ```
 
 # Comandos En El Bot (Usuarios Nomales)
-```/start : Inicar Bot , Te Da La INfo
+```/start : Inicar Bot
 /tutorial : Te Da un tutorial basico de uso del bot q puedes echarle un ojo
 /myuser : Obtiene la informacion del usuario q esta usando el bot
 /zips : Configura el tamano de las partes comprimidas 7z
-/account: COnfigura su cuenta de nube en el bot
+/acc: Configura su cuenta de nube en el bot
 /host : Configura el Host Al Cual ba a subir los archivos el bot x ejemplo https://moodle.uclv.edu.cu/ (Moodle o Nexcloud)
 /repoid : EN EL caso de las moodles cada nube tiene su repoid q hay q saber extraerlo y configurarsel al bot para poder subir
 /cloud : Alterna El tipo de subida a nubes ya sea cloud o moodle , en caso de cloud es nexcloud pero para simplificar se pone cloud
