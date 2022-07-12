@@ -4,7 +4,7 @@ Bot De Telegram : Descarga Gratis , Descargador gratis de contenido desde intern
 # Deploy Usando Git Win Y Heroku Cli Desde PC
 ```
 (CMD)
-git clone https://github.com/ObisoftDev/tguploaderpro 
+git clone  https://github.com/alexcuba2/Descarga-Gratis-
 git init
 git add .
 git commit -m "OK"
@@ -25,7 +25,7 @@ git push heroku master
 /tokenize_on : Enciende el modo tokenize , se recomienda no usar a no se q disponga de una de las apps oficiales de descarga del bot 
 /tokenize_off : Apaga el modo tokenize
 /uptype : Configure el modo de subir de moodle ya sea draft , evidence , blog y calendario
-/proxy : Configura UN Proxy Para Las Subidas Del Bot , contactar en telegram a @obisoftdevel para contratar uno
+/proxy : Configura UN Proxy Para Las Subidas Del Bot.
 /files : En caso de tener activa el uptype (evidence) este comando le da una lista de archivo q se encuentra en las evidencias de la nube
 /delall : En caso de tener activa el uptype (evidence) este comando borra todos los archivos en la lista de evidencia de la nube
 /dir : En caso de tener activo cloud configure el directorio base en la nexcloud donde se va a subir los archivos
@@ -37,4 +37,4 @@ git push heroku master
 /getdb : Obten la base de datos donde se almacenan la info de los usarios en el bot
 ```
 # Deploy Directo (Heroku)
-[![Heroku Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ObisoftDev/tguploaderpro)
+[![Heroku Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/alexcuba2/Descarga-Gratis-)
